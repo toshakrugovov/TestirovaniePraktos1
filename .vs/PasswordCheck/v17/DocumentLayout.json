@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\PasswordCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E27D0FB9-B755-4D97-89FF-6CA80D2D3C5A}|PasswordCheck.Tests\\PasswordCheck.Tests.csproj|C:\\Users\\anton\\source\\repos\\PasswordCheck\\passwordcheck.tests\\passwdchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27D0FB9-B755-4D97-89FF-6CA80D2D3C5A}|PasswordCheck.Tests\\PasswordCheck.Tests.csproj|solutionrelative:passwordcheck.tests\\passwdchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297D390C-A3C8-43AD-88C7-8400FA45FD8F}|PasswordCheck\\PasswordCheck.csproj|c:\\users\\anton\\source\\repos\\passwordcheck\\passwordcheck\\passwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297D390C-A3C8-43AD-88C7-8400FA45FD8F}|PasswordCheck\\PasswordCheck.csproj|solutionrelative:passwordcheck\\passwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswdCheckTests.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\PasswordCheck\\PasswordCheck.Tests\\PasswdCheckTests.cs",
+              "RelativeDocumentMoniker": "PasswordCheck.Tests\\PasswdCheckTests.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\PasswordCheck\\PasswordCheck.Tests\\PasswdCheckTests.cs",
+              "RelativeToolTip": "PasswordCheck.Tests\\PasswdCheckTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:16:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Passwd.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\PasswordCheck\\PasswordCheck\\Passwd.cs",
+              "RelativeDocumentMoniker": "PasswordCheck\\Passwd.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\PasswordCheck\\PasswordCheck\\Passwd.cs",
+              "RelativeToolTip": "PasswordCheck\\Passwd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:14:18.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
